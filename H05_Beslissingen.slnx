@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="B5_1_BooleaanseExpressiesTesten/B5_1_BooleaanseExpressiesTesten.csproj" />
+  <Project Path="B5_2_Leeftijdscheck/B5_2_Leeftijdscheck.csproj" />
+  <Project Path="B5_3_RekenmachineMetSwitch/B5_3_RekenmachineMetSwitch.csproj" />
+  <Project Path="E5_1_BMICategorie/E5_1_BMICategorie.csproj" />
+  <Project Path="E5_2_DagplannerMetEnum/E5_2_DagplannerMetEnum.csproj" />
+  <Project Path="E5_3_GetalRaderSpel/E5_3_GetalRaderSpel.csproj" />
+  <Project Path="P5_1_LiftcontrollerMetEnum/P5_1_LiftcontrollerMetEnum.csproj" />
+  <Project Path="P5_2_TekstAvontuurspel/P5_2_TekstAvontuurspel.csproj" />
+</Solution>
